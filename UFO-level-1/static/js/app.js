@@ -17,3 +17,4 @@ var addData = (dataInput) => {
 }
 
 addData(tableData);
+
